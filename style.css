@@ -122,6 +122,10 @@ object-position: 40% 10%;
   object-position: 50% 10%;
 }
 
+#dinho {
+  height: 112vh;
+}
+
 #scroll4 {
 box-shadow: none;
 height: 100%;
